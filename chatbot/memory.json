@@ -1,0 +1,52 @@
+{
+   "domande": [
+      {
+         "domanda": "ciao",
+         "risposta": "ciao,come posso aiutarti?"
+      },
+      {
+         "domanda": "come stai",
+         "risposta": "bene grazie,te?"
+      },
+      {
+         "domanda": "molto bene",
+         "risposta": "sono felice che tu stia bene,come posso aiutarti?"
+      },
+      {
+         "domanda": "cosa puoi fare",
+         "risposta": "puoi usarmi in vari ambiti, come un bot d'assistenza per un sito e molto altro ancora"
+      },
+      {
+         "domanda": "come faccio a uscire",
+         "risposta": "semplice,basta scrivere quit"
+      },
+      {
+         "domanda": "che ore sono?",
+         "risposta": "mi dispiace ma non posso fornire informazioni in tempo reale, prova a vedere sul tuo dispositivo o se no crea te un orologio tramite pytho!"
+      },
+      {
+         "domanda": "che tempo fa?",
+         "risposta": "scusa ma non posso fornire informazioni in tempo reale. Per ottenre le condizioni meteorologiche controlla su siti di meteo"
+      },
+      {
+         "domanda": "2+2",
+         "risposta": "4"
+      },
+      {
+         "domanda": "come si printa in python?",
+         "risposta": "per mostrare qualcosa a schermo basta scrivere print(\"Ciao\")"
+      },
+      {
+         "domanda": "Grazie",
+         "risposta": "di nulla, sono qui per questo...se hai altro da chiedermi fai pure!"
+      },
+      {
+         "domanda": "chi ti ha creato?",
+         "risposta": "il mio creatore \u00e8 uno studente di informatica, si \u00e8 aiutato tramite video e documenti trovati su internet"
+      },
+      {
+         "domanda": "come si esce",
+         "risposta": "se intendi uscire dalla chat digita quit"
+      }
+   ]
+}
