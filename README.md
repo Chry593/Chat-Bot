@@ -1,6 +1,8 @@
 # Chat-Bot
 ChatBot in grado di rispondere a domande fatte dall'utente e in grado di apprendere nuove risposte. 
-Il programma è diviso in pià funzioni:
+È possibile usarlo in vari ambiti come quello dell'assistenza, dove gli si può far apprendere le 
+risposte alle domande più gettonate fatte dai clienti così da poterli aiutare
+Il programma è diviso in più funzioni:
   1) def load_memory_boat(path:str) -> carica la "memoria" del bot dove sono presenti le domande e le loro eventuali risposte
   2) def save_new_questions(data:str , path: str) -> salva le nuove domande-risposte nel file json
   3) def best_answer(user_quest: str, lista_domande: list[str]) -> crea una lista tramite la funzione *get_close_matches* con le risposte che si avvicinano di più alla domanda, e restituisce la prima risposta
