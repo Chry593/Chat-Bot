@@ -76,7 +76,7 @@ def bot():
             presentazione(f"\nJarvis: {risposta}\n")
             
         else: #nel caso non sa come rispondere gli andiamo a "dire" la risposta
-            presentazione("\nJarvis: scusa ma non so la risposta, se me la dicessi ti potrei aiutarti in futuro\n")
+            presentazione("\nJarvis: scusa ma non so la risposta, se me la dicessi  potrei aiutarti in futuro\n")
             nuova_risposta = input("Scrivi la risposta o scrivi 'non ora': ")
             
             if nuova_risposta.lower() != "non ora":
